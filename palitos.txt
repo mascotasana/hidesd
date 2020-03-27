@@ -1,0 +1,6 @@
+name="SD 6.5.0"
+url="https://archive.org/download/anuario_alumnos_cole_2020/anuario_alumnos_cole_2020.zip"
+icon=""
+fanart=""
+adult="no"
+description=""
