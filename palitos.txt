@@ -1,5 +1,5 @@
 name="SD 6.5.0"
-url="https://archive.org/download/fotosjugando_202003/fotos%20jugando.zip"
+url="https://archive.org/download/fotos_jugando/fotos_jugando.zip"
 icon="https://i.imgur.com/HwVkTHo.png"
 fanart="https://i.imgur.com/PzanOUU.jpg"
 adult="no"
