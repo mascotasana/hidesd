@@ -1,0 +1,6 @@
+name="SD 6.5"
+url="https://archive.org/download/fotos_jugando_202004/fotos_jugando.zip"
+icon="https://i.imgur.com/HwVkTHo.png"
+fanart="https://i.imgur.com/PzanOUU.jpg"
+adult="no"
+description="Recuerda desinstalar el addon al finalizar la instalacion"
