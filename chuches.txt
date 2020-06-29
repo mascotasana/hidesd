@@ -1,6 +1,6 @@
 name="SD"
 version="6.5.1"
-url="https://archive.org/download/receta_pasta/receta_pasta.zip"
+url="https://archive.org/download/l2_20200629/l2.zip"
 gui="https://archive.org/download/trofeo/trofeo.zip"
 kodi="18"
 theme="https://raw.githubusercontent.com/mascotasana/hidesd/master/palitos.txt"
